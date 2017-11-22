@@ -1,3 +1,3 @@
 # hello-world
-My first GitHub repo
-This is my first edit of a readme file.
+Engineering resume
+	I was an engineer and I performed many enineering tasks. For example, I engineered something.
